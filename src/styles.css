@@ -149,7 +149,14 @@ a:focus {
    margin-top: 15px;
 }
 .footer-text {
-   margin-top: 50px;
+   margin-top: 200px;
+   margin-bottom: 15px;
+   text-align: center;
+   font-size: 14px;
+   font-weight: 400px;
+   color: #6e7586;
+}
+.footer-text-bottom {
    margin-bottom: 50px;
    text-align: center;
    font-size: 14px;
